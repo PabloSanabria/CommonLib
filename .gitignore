@@ -1,0 +1,34 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+## Visual Studio Code
+.vscode/
+
+## Visual Studio 
+.vs/
+
+## Rider
+.idea/
+
+## DotCover
+*.dotCover
+
+## Logs
+*.log
+
+## Test results
+TestResults/
+
+## Auto-generated files
+Generated\ Files/
+
+# Optional NuGet packages folder
+# Uncomment if you use NuGet packages outside of `packages.config`
+# packages/
